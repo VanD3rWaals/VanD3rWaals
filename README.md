@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @VanD3rWaals
 - 👀 I’m interested in Coding, Engineering, Data Science, and Math
-- 🌱 I’m currently learning python and SQL
-- 💞️ I’m looking to collaborate on student projects
 - 📫 How to reach me: pfc.vanderwaals@gmail.com
 
 <!---
